@@ -1,0 +1,262 @@
+.bg{
+    height: 45vw;
+    position: relative;
+}
+
+.bg img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.rectangle{
+    width: 1420px; 
+    height: 81.91px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    mix-blend-mode: multiply; 
+    background: #f1b74a;
+}
+
+h1{
+    width: 996px; 
+    left: 100px; 
+    top: 100px; 
+    position: absolute; 
+    color: #996B12; 
+    font-size: 35px; 
+    font-family: BioRhyme; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.line{
+    width: 612px; 
+    height: 0px; 
+    left: 100px; 
+    top: 150px; 
+    position: absolute; 
+    border: 3px #906410 solid;
+}
+
+.rectangle1{
+    width: 631px; 
+    height: 400px; 
+    left: 100px; 
+    top: 200px; 
+    position: absolute; 
+    mix-blend-mode: multiply; 
+    background: rgba(243.56, 210.50, 146.33, 0.81); 
+    border-radius: 10px;
+}
+
+h2{
+    left: 91px; 
+    top: 30px; 
+    position: absolute; 
+    color: #906410; 
+    font-size: 30px; 
+    font-family: Bitter; 
+    font-weight: 500; 
+    word-wrap: break-word;
+}
+
+h3{
+    left: 91px; 
+    top: 150px; 
+    position: absolute; 
+    color: #906410; 
+    font-size: 30px; 
+    font-family: Bitter; 
+    font-weight: 500; 
+    word-wrap: break-word;
+}
+
+h4{
+    left: 91px; 
+    top: 270px; 
+    position: absolute; 
+    color: #906410; 
+    font-size: 30px; 
+    font-family: Bitter; 
+    font-weight: 500; 
+    word-wrap: break-word;
+}
+
+#name{
+    width: 500px;
+    left: 91px; 
+    top: 80px; 
+    position: absolute; 
+    color: #906410; 
+}
+
+#email{
+    width: 500px;
+    left: 91px; 
+    top: 200px; 
+    position: absolute; 
+    color: #906410; 
+}
+
+#message{
+    width: 500px;
+    left: 91px; 
+    top: 330px; 
+    position: absolute; 
+    color: #906410; 
+}
+
+.f{
+    left: 1000px; 
+    top: 237px; 
+    position: absolute; 
+    color: #996B12; 
+    font-size: 34px; 
+    font-family: Bitter; 
+    font-weight: 500; 
+    text-decoration: underline; 
+    word-wrap: break-word;
+}
+
+.n{
+    left: 1000px; 
+    top: 300px; 
+    position: absolute; 
+    color: #996B12; 
+    font-size: 34px; 
+    font-family: Bitter; 
+    font-weight: 500; 
+    text-decoration: underline; 
+    word-wrap: break-word;
+}
+
+.i{
+    left: 1000px; 
+    top: 363px; 
+    position: absolute; 
+    color: #996B12; 
+    font-size: 34px; 
+    font-family: Bitter; 
+    font-weight: 500; 
+    text-decoration: underline; 
+    word-wrap: break-word;
+}
+
+.e{
+    left: 1000px; 
+    top: 426px; 
+    position: absolute; 
+    color: #996B12; 
+    font-size: 34px; 
+    font-family: Bitter; 
+    font-weight: 500; 
+    text-decoration: underline; 
+    word-wrap: break-word;
+}
+
+.l{
+    left: 1000px; 
+    top: 486px; 
+    position: absolute; 
+    color: #996B12; 
+    font-size: 34px; 
+    font-family: Bitter; 
+    font-weight: 500; 
+    text-decoration: underline; 
+    word-wrap: break-word;
+}
+
+.icon1 img{
+    width: 50px; 
+    height: 50px; 
+    left: 950px; 
+    top: 237px; 
+    position: absolute;
+}
+
+.icon2 img{
+    width: 50px; 
+    height: 50px; 
+    left: 950px; 
+    top: 300px; 
+    position: absolute;
+}
+
+.icon3 img{
+    width: 50px; 
+    height: 50px; 
+    left: 950px; 
+    top: 363px; 
+    position: absolute;
+}
+
+.icon4 img{
+    width: 50px; 
+    height: 50px; 
+    left: 950px; 
+    top: 426px; 
+    position: absolute;
+}
+
+.icon5 img{
+    width: 50px; 
+    height: 50px; 
+    left: 950px; 
+    top: 489px; 
+    position: absolute;
+}
+
+.button1{
+    width: 131px; 
+    height: 47.75px; 
+    left: 600px; 
+    top: 19px; 
+    position: absolute; 
+    color: #906410; 
+    font-size: 26px; 
+    font-family: Bitter; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+
+.button2{
+    width: 250px; 
+    height: 47.75px; 
+    left: 750px; 
+    top: 19px; 
+    position: absolute; 
+    color: #906410; 
+    font-size: 26px; 
+    font-family: Bitter; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+
+.button3{
+    width: 200px; 
+    height: 47.75px; 
+    left: 950px; 
+    top: 19px; 
+    position: absolute; 
+    color: #906410; 
+    font-size: 26px; 
+    font-family: Bitter; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+
+.button4{
+    width: 280px; 
+    height: 47.75px; 
+    left: 1140px; 
+    top: 19px; 
+    position: absolute; 
+    color: #906410; 
+    font-size: 26px; 
+    font-family: Bitter; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+
